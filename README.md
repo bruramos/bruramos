@@ -2,17 +2,18 @@
 
 ### 💡 Welcome to my GitHub!
 
+#### 💼 Professional Experience:
+
+- [2021 - present] RPA Developer at Smarthis
+- [2016 - 2017] Technical Support Intern at FANUC South America
+- [2012 - 2016] Product Technician at Siemens Ltda
+
 #### 🎓 Academic Experience:
 
-- Master's student in Electrical Engineering (Microelectronics) at Universidade de São Paulo (USP) with CAPES scholarship
-- Electrical and Electronics Engineer from Pontifícia Universidade Católica de São Paulo (PUC-SP)
-- Electrical and Electronics Technician from SENAI-SP 
-- Exchange semester in the Integrated Master in Electrical and Computers Engineering course at Faculdade de Engenharia da Universidade do Porto (FEUP - U.Porto) in Portugal, with Santander Iberoamericanas scholarship 
-
-#### 💼 Professional experience:
-
-- Product Technician at Siemens Ltda
-- Technical Support Intern at FANUC South America 
+- [2018 - present] Master's student in Electrical Engineering (Microelectronics) at Universidade de São Paulo (USP) with CAPES scholarship
+- [2012 - 2017] Electrical and Electronics Engineer from Pontifícia Universidade Católica de São Paulo (PUC-SP)
+- [2016] Exchange semester in the Integrated Master in Electrical and Computers Engineering course at Faculdade de Engenharia da Universidade do Porto (FEUP - U.Porto) in Portugal, with Santander Iberoamericanas scholarship 
+- [2011 - 2012] Electrical and Electronics Technician from SENAI-SP 
 
 #### 🔧 I have projects involving:
  
