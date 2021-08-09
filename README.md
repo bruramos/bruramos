@@ -22,7 +22,7 @@
 
 #### 🎓 Academic Experience:
 
-- [2018 - present] Master's student in Electrical Engineering (Microelectronics) at Universidade de São Paulo (USP) with CAPES scholarship
+- [2018 - 2021] Master's degree in Electrical Engineering (Microelectronics) from Universidade de São Paulo (USP) with CAPES scholarship
 - [2012 - 2017] Electrical and Electronics Engineer from Pontifícia Universidade Católica de São Paulo (PUC-SP)
 - [2016] Exchange semester in the Integrated Master in Electrical and Computers Engineering course at Faculdade de Engenharia da Universidade do Porto (FEUP - U.Porto) in Portugal, with Santander Iberoamericanas scholarship 
 - [2011 - 2012] Electrical and Electronics Technician from SENAI-SP 
