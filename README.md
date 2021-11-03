@@ -16,7 +16,8 @@
 
 #### 💼 Professional Experience:
 
-- [2021 - present] RPA Developer at Smarthis
+- [2021 - present] Software Engineer at Dell Technologies
+- [2021 - 2021] RPA Developer at Smarthis
 - [2016 - 2017] Technical Support Intern at FANUC South America
 - [2012 - 2016] Product Technician at Siemens Ltda
 
@@ -37,17 +38,18 @@
 
 #### 🌱 I’m currently learning:
 
+- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git
+- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java
 - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python
 - 🤖 RPA
-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git
 - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"> Ruby
-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java
+
 
 #### 🔍 I'm interested in:
 
 - Software Engineering
-- RPA (Robotic Process Automation)
 - Software Testing (QA)
+- RPA (Robotic Process Automation)
 - Electronics
 
 
